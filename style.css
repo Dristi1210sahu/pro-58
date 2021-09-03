@@ -1,0 +1,28 @@
+body{
+    text-align: center;  
+}
+#section1{
+    z-index: 9;
+    background:linear-gradient(#60ebeb 0%, #27ae60 100%)
+    
+}
+#list{
+    list-style: none; 
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 11;
+    
+}
+#1{
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    
+}
